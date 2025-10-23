@@ -71,13 +71,6 @@ Awan Coffee juga bisa menjadi model bagi cafe modern yang ingin:
 
 ---
 
-## 📱 Tampilan Awal (Mockup Desain)
-*(Tambahkan screenshot di bawah ini nanti ya sayang)*
-
-| User | Barista |
-|------|----------|
-| ![User View](docs/user_ui.png) | ![Barista View](docs/barista_ui.png) |
-
 ---
 
 ## 💬 Tentang Developer
