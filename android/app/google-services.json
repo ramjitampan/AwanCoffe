@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "491966579299",
+    "project_id": "awancoffe-1e249",
+    "storage_bucket": "awancoffe-1e249.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491966579299:android:f6e162bc54faf163d6ee56",
+        "android_client_info": {
+          "package_name": "com.example.awan_coffe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBEYcgVHYtKKJsGjV6kXmmDs24Vj0TbvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
